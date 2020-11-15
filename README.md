@@ -10,7 +10,7 @@
  -  学校:重庆工程学院
  -  专业:软件工程
  -  技术博客:http://baiyangtongxue.github.io
--Github:http://github.com.baiyangtongxue
+ -  Github:http://github.com.baiyangtongxue
 
 ###自我评价
  -  特别能吃
@@ -20,4 +20,4 @@
 
      ###致谢
 
-        感谢您花时间阅读我的简历
+        感谢您花时间阅读我的简历。
